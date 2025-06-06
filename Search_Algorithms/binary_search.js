@@ -1,3 +1,5 @@
+//The Function expects a sorted Array in input.
+
 const binarySearch = function(arr,targetNum){
     let left = 0;
     let right = arr.length - 1;
