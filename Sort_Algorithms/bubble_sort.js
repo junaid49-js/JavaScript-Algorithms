@@ -11,4 +11,6 @@ const bubbleSort = (array) => {
         }
     }
     } while(isSwapped)
+
+    return array
 }
